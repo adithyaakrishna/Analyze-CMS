@@ -1,6 +1,6 @@
 # Analyze-CMS
 
-Content Management Systems (CMS):
+### Content Management Systems (CMS):
 
 1. Simplified Content Management: CMS tools simplify creating, editing, and organizing digital content like websites and blogs without needing coding skills.
 
@@ -12,7 +12,7 @@ Content Management Systems (CMS):
 
 5. SEO and Multilingual Support: CMS tools help optimize content for search engines, and some offer multilingual capabilities to present content in various languages.
 
-Here's a comparison of various CMS/Static Site Generators,
+### Here's a comparison of various CMS/Static Site Generators,
 
 - WordPress: A widely used traditional CMS known for its user-friendliness and extensive plugin ecosystem. It's suitable for various website types, especially blogs and small to medium businesses.
 
@@ -29,6 +29,8 @@ Here's a comparison of various CMS/Static Site Generators,
 - Hugo: A static site generator popular among developers for its speed and simplicity. It's ideal for static sites, blogs, and simple projects.
 
 - Netlify CMS: Tailored for JAMstack architecture, Netlify CMS is user-friendly and integrates with Git workflows. It's great for JAMstack sites and simple content management tasks.
+
+#### Detailed Comparison
 
 | CMS Tool    | Type                  | Ease of Use   | Flexibility            | Community           | License Type     | User-Friendly | Non-Developer Usability |
 |-------------|-----------------------|---------------|------------------------|---------------------|------------------|---------------|-------------------------|
